@@ -1,14 +1,14 @@
 # Responsive web page
-Recreate the attached: 'job_task_1.jpg' as a responsive web page for two breakpoints, mobile and tablet:
+Using Bootstrap CSS, please recreate the attached: 'job_task_1.jpg' image below as a responsive HTML web page with two breakpoints, mobile and tablet:
 
 ![Required page layout](resources/images/job_task_1.jpg)
 
 ## Resources
-All the assets you need are stored in **/resources**
+Fonts and images are stored in **/resources**
 
 ## Brand
 ### Fonts
-Our font family is **Aleo.** Font files are in the **resources** folder.
+Our font family is **Aleo.** Font files are in the **resources/fonts** folder.
 
 - Aleo Regular
 - Aleo Bold
@@ -21,4 +21,3 @@ Our font family is **Aleo.** Font files are in the **resources** folder.
 - button pink: #ec1f7d
 - green: #5cb1b9
 - green dark: #4ca7b0
-
